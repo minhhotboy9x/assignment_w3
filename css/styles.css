@@ -1,17 +1,17 @@
-/* navbar */
 .navbar{
     background-color: gray;
-}
+} 
 /* brand */
-.navbar-header .navbar-brand {
+ .navbar-header .navbar-brand {
     float: left;
     font-size: 1.75em;
     margin-top: 5px;
-    margin-left: 10px;
+    margin-bottom: 5px;
+    padding-left: 35px;
     color: black;
 }
 *{
-    box-sizing: border-box;   
+    box-sizing: border-box;  
 }
 /* button collapse */
 .navbar-header button.navbar-toggle {
@@ -72,6 +72,7 @@
     margin-left: 20px;
     margin-right: 20px;
     height: 1000px;
+
     margin-bottom: 50px;
 }
 #chicken div {
